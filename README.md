@@ -12,3 +12,5 @@ I have used sys module to close the game if User selects any inappropriate choic
 I have also used if-elif ladder to check and match the choices of player and computer.
 
 After each round, the system asks user for a rematch and if the user denies that, Computer bids the user a good-bye
+
+Code and one round game play is attached in a zip file named RockPaperScissor.zip
