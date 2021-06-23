@@ -1,4 +1,4 @@
-# Rock_Paper_Scissor_Game
+# Rock_Paper_Scissors_Game
 
 Hey all!!!
 I have created the famous Rock-Paper-Scissors game in python 3.9
